@@ -1,0 +1,1 @@
+[![Tests](https://github.com/AleksandrMuzhev/ajs-order/actions/workflows/tests.yml/badge.svg)](https://github.com/ВАШ_ЛОГИН/ajs-order/actions/workflows/tests.yml)
